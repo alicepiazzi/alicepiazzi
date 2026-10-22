@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Alice Piazzi
 
 I'm a **Master's Graduate in Digital Humanities and Digital Knowledge** at the [Alma Mater Studiorum – University of Bologna](https://www.unibo.it) 🎓🇮🇹
+
 I'm passionate about **User Experience (UX), EdTech, and Cultural Heritage Technologies**.
 
 ---
