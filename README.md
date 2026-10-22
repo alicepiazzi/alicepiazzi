@@ -31,8 +31,8 @@ I'm passionate about **User Experience (UX), EdTech, and Cultural Heritage Techn
 ---
 
 ### 📫 Connect with Me
-- ✉️ [Email Me](mailto:alicep2401@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alice-piazzi-4a6687259/)
-- 📸 [Instagram](https://www.instagram.com/alice.piazzii)
-- 📘 [Facebook](https://www.facebook.com/profile.php?id=100079714877208)
+- <i class="bi bi-envelope"></i> [Email Me](mailto:alicep2401@gmail.com)
+- <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/alice-piazzi-4a6687259/)
+- <i class="bi bi-instagram"></i> [Instagram](https://www.instagram.com/alice.piazzii)
+- <i class="bi bi-facebook"></i> [Facebook](https://www.facebook.com/profile.php?id=100079714877208)
 <!-- - 🌐 [Portfolio Landing Page](https://tuo-sito.github.io) -->
