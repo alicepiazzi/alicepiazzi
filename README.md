@@ -26,7 +26,7 @@ I'm passionate about **User Experience (UX), EdTech, and Cultural Heritage Techn
 - 🔍 **[Renzo & Lucia](https://renzo-lucia.github.io/DigitalScholarlyEditing_Renzo-Lucia/#)** — A digital scholarly editing project comparing Alessandro Manzoni's *Ventisettana* (1827) with its Spanish translation *Los novios* (1836–37) to explore linguistic and cultural shifts.
 - 📜 **[Reliably Ever After](https://li-cunti-transcription.github.io/LCT_Project/)** — A comparative study evaluating Transkribus and ChatGPT performance on the HTR/OCR transcription of Giambattista Basile's 17th-century Neapolitan work *Lo Cunto de li Cunte* (1788 edition).
 - 🏛️ **[Monument Debate Ontology (MDO)](https://monument-debate-ontology.gitbook.io/monument_debate_ontology-docs)** — A semantic web project and ontology designed to capture and represent contemporary public debates, conflicts, and dual perspectives surrounding controversial monuments and cancel culture.
-- 🌋 **[The Eruption of Vesuvius](https://pr-k-oject.github.io/the_eruption_in_lod/#theproject](https://pr-k-oject.github.io/the_eruption_in_lod/index.html)** — A Linked Open Data (LOD) project modeling and structuring historical data related to the tragic 79 AD eruption that buried Pompeii, Herculaneum, and Stabiae.
+- 🌋 **[The Eruption of Vesuvius](https://pr-k-oject.github.io/the_eruption_in_lod/#theproject](https://pr-k-oject.github.io/the_eruption_in_lod/index.html )** — A Linked Open Data (LOD) project modeling and structuring historical data related to the tragic 79 AD eruption that buried Pompeii, Herculaneum, and Stabiae.
 
 ---
 
