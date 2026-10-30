@@ -35,4 +35,4 @@ I'm passionate about **User Experience (UX), EdTech, and Cultural Heritage Techn
 - 💼 [LinkedIn](https://www.linkedin.com/in/alice-piazzi-4a6687259/)
 - 📸 [Instagram](https://www.instagram.com/alice.piazzii)
 - 📸 [Facebook](https://www.facebook.com/profile.php?id=100079714877208)
-<!-- - 🌐 [Portfolio Landing Page](https://tuo-sito.github.io) -->
+- 🌐 [Portfolio Landing Page]([https://tuo-sito.github.io](https://alicepiazzi.github.io/landingpage-alicepiazzi/)
